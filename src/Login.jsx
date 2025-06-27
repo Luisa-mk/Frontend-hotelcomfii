@@ -16,7 +16,7 @@ export default function Login() {
     setError("");
 
     if (!form.email || !form.password) {
-      setError("Ambos campos son obligatorios.");
+      setError("Ambos campos son obligatorioshhh.");
       return;
     }
 
